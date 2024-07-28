@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zvyctoralm
-- 👀 I’m interested in Python and Programming
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in Python and Programming in generall
+- 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on projects in generall
 
 
